@@ -1,0 +1,70 @@
+{
+  "name": "react-basic-maths",
+  "version": "1.0.6",
+  "description": "A TypeScript utility library providing essential mathematical operations and functions for developers. It includes basic arithmetic operations, statistical calculations, combinatorics, rounding functions, and more. Perfect for JavaScript and TypeScript projects requiring fast and easy math operations, whether for frontend, backend, or any other math-driven application.",
+  "main": "dist/index.js",
+  "module": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": ["dist"],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack && tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alan-Nixon/react-basic-maths.git"
+  },
+  "keywords": [
+  "react",
+  "math",
+  "maths",
+  "basic math",
+  "arithmetic",
+  "math operations",
+  "typescript",
+  "javascript",
+  "math functions",
+  "math utilities",
+  "utility library",
+  "developer tools",
+  "npm package",
+  "sum",
+  "subtract",
+  "multiply",
+  "divide",
+  "abs",
+  "round",
+  "ceil",
+  "floor",
+  "average",
+  "min",
+  "max",
+  "pow",
+  "sqrt",
+  "cbrt",
+  "log",
+  "logarithm",
+  "permutation",
+  "combination",
+  "number theory",
+  "ts utils",
+  "frontend tools",
+  "react utils",
+  "developer utilities"
+],
+  "author": "Alan Nixon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Alan-Nixon/react-basic-maths/issues"
+  },
+  "homepage": "https://github.com/Alan-Nixon/react-basic-maths#readme",
+  "devDependencies": {
+    "@babel/core": "^7.26.10",
+    "@babel/preset-env": "^7.26.9",
+    "@babel/preset-typescript": "^7.27.0",
+    "babel-loader": "^10.0.0",
+    "typescript": "^5.8.3",
+    "webpack": "^5.99.2",
+    "webpack-cli": "^6.0.1"
+  }
+}
